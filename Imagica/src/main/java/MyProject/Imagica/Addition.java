@@ -1,7 +1,6 @@
 package MyProject.Imagica;
 
 
-
 public class Addition {
 
 	
